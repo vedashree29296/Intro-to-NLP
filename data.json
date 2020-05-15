@@ -1,0 +1,110 @@
+[
+    {
+        "Menu": "Ice Cream",
+        "category": "Dessert",
+        "Price": 10,
+        "Season": "Summer",
+        "weekday": "true",
+        "footfall": 100,
+        "sales": 1000
+    },
+    {
+        "Menu": "Cappucino",
+        "category": "Beverage",
+        "Price": 15,
+        "Season": "Winter",
+        "weekday": "true",
+        "footfall": 50,
+        "sales": 750
+    },
+    {
+        "Menu": "Sandwich",
+        "category": "Snack",
+        "Price": 20,
+        "Season": "Summer",
+        "weekday": "true",
+        "footfall": 40,
+        "sales": 800
+    },
+    {
+        "Menu": "Ice Cream",
+        "category": "Dessert",
+        "Price": 10,
+        "Season": "Winter",
+        "weekday": "true",
+        "footfall": 100,
+        "sales": 200
+    },
+    {
+        "Menu": "Cappucino",
+        "category": "Beverage",
+        "Price": 15,
+        "Season": "Summer",
+        "weekday": "true",
+        "footfall": 78,
+        "sales": 900
+    },
+    {
+        "Menu": "Sandwich",
+        "category": "Snack",
+        "Price": 20,
+        "Season": "Winter",
+        "weekday": "true",
+        "footfall": 80,
+        "sales": 650
+    },
+    {
+        "Menu": "Ice Cream",
+        "category": "Dessert",
+        "Price": 10,
+        "Season": "Summer",
+        "weekday": "false",
+        "footfall": 200,
+        "sales": 20000
+    },
+    {
+        "Menu": "Cappucino",
+        "category": "Beverage",
+        "Price": 15,
+        "Season": "Winter",
+        "weekday": "false",
+        "footfall": 100,
+        "sales": 1500
+    },
+    {
+        "Menu": "Sandwich",
+        "category": "Snack",
+        "Price": 20,
+        "Season": "Summer",
+        "weekday": "false",
+        "footfall": 40,
+        "sales": 4000
+    },
+    {
+        "Menu": "Ice Cream",
+        "category": "Dessert",
+        "Price": 10,
+        "Season": "Summer",
+        "weekday": "false",
+        "footfall": 40,
+        "sales": 4000
+    },
+    {
+        "Menu": "Cappucino",
+        "category": "Beverage",
+        "Price": 15,
+        "Season": "Summer",
+        "weekday": "true",
+        "footfall": 20,
+        "sales": 750
+    },
+    {
+        "Menu": "Sandwich",
+        "category": "Snack",
+        "Price": 20,
+        "Season": "Winter",
+        "weekday": "false",
+        "footfall": 30,
+        "sales": 1000
+    }
+]
